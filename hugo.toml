@@ -1,0 +1,4 @@
+baseURL = 'https://victorcosta.dev/'
+languageCode = 'en-us'
+title = 'Victor Costa'
+theme = 'ananke'
